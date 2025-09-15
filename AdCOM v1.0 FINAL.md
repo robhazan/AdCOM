@@ -3927,6 +3927,14 @@ The following table lists the services and/or vendors used for resolving IP addr
     <td>4</td>
     <td>NetAcuity (Digital Element)</td>
   </tr>
+  <tr>
+    <td>511</td>
+    <td>51Degrees (<a href="https://51degrees.com/documentation/4.5/_ip_intelligence__features__confidence.html">High Confidence</a>)</td>
+  </tr>
+  <tr>
+    <td>512</td>
+    <td>51Degrees (<a href="https://51degrees.com/documentation/4.5/_ip_intelligence__features__confidence.html">Medium Confidence</a>)</td>
+  </tr>
 </table>
 
 
