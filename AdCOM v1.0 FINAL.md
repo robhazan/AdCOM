@@ -3929,14 +3929,13 @@ The following table lists the services and/or vendors used for resolving IP addr
   </tr>
   <tr>
     <td>511</td>
-    <td>51Degrees (<a href="https://51degrees.com/documentation/4.5/_ip_intelligence__features__confidence.html">High Confidence</a>)</td>
+    <td>51Degrees (High Confidence: results can be relied upon and considered useful for all practical purposes)</td>
   </tr>
   <tr>
     <td>512</td>
-    <td>51Degrees (<a href="https://51degrees.com/documentation/4.5/_ip_intelligence__features__confidence.html">Medium Confidence</a>)</td>
+    <td>51Degrees (Medium Confidence: results might be useful where the use case can tolerate a degree of inaccuracy)</td>
   </tr>
 </table>
-
 
 ### List:  Linearity Modes <a name="list_linearitymodes"></a>
 
