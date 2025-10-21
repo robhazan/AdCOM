@@ -3929,11 +3929,11 @@ The following table lists the services and/or vendors used for resolving IP addr
   </tr>
   <tr>
     <td>511</td>
-    <td>51Degrees (High Confidence: results can be relied upon and considered useful for all practical purposes)</td>
+    <td>51Degrees (High Confidence)</td>
   </tr>
   <tr>
     <td>512</td>
-    <td>51Degrees (Medium Confidence: results might be useful where the use case can tolerate a degree of inaccuracy)</td>
+    <td>51Degrees (Medium Confidence)</td>
   </tr>
 </table>
 
